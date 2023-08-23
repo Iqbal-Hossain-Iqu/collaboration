@@ -6,7 +6,8 @@ export default function Home() {
       <div>
         <h1>Iqbal</h1>
         <h1>Nazrul</h1>
-    <h1>adit</h1>
+       <h1>adit</h1>
+      
       </div>
     </main>
   )
